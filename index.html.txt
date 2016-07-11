@@ -1,0 +1,6 @@
+<html>
+<body>
+<h1>Web Data Connector</h1>
+<a href="MadMoneyScraper.html">Mad Money Scraper</a>
+</body>
+</html>
